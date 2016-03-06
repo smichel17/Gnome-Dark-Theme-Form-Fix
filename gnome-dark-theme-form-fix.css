@@ -7,18 +7,13 @@
  * Author: Stephen Michel                               *
  ********************************************************/
 
-/* So we don't apply to the url bar */
-@-moz-document url("!chrome://browser/content/browser.xul") {
+textarea,textfield {
+    background: white;
+    color: black;
+    width: 100%;
+}
 
-    textarea,textfield {
-        background: white;
-        color: black;
-        width: 100%;
-    }
-
-    input {
-        background: white;
-        color: black;
-    }
-
+html input {
+    background: white;
+    color: black;
 }
