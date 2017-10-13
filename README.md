@@ -1,6 +1,8 @@
 # Gnome-Dark-Theme-Form-Fix
 The Gnome 3 Dark Theme makes forms white-on-white. This forces white-on-black.
 
+This is not maintained. I'll leave it online in case it becomes useful to someone.
+
 ## Versioning
 
 Even though it's a tiny css file so it's kind of silly to do releases at all, I'm going to use [Semantic Versioning](http://semver.org). For css, I think that means:
